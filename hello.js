@@ -13,10 +13,17 @@ console.log('after feature');
 console.log('inception feature');
 console.log("Solving major bug!");
 console.log("Solving minor bug!");
-console.log("After Solving major bug!");
 
 //task 2 i working on
 console.log("task 2");
 
 //task 2 ammend
 console.log("task 2.1");
+
+
+//Country names
+console.log("India");
+console.log("Australia");
+console.log("Germany");
+console.log("France");
+console.log("Spain");
