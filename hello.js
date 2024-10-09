@@ -17,7 +17,7 @@ console.log("Solving minor bug!");
 //task 2 i working on
 console.log("task 2");
 
-//task 2 ammend
+//task 2 amend
 console.log("task 2.1");
 
 
